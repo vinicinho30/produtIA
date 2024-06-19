@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Brasil",
-                afirmacao: "afirmação"
+                afirmacao: "porque o Brasil levou mais copas que todas equipe"
             },
             {
                 texto: "Alemanha",
-                afirmacao: "afirmação"
+                afirmacao: "porque a alemanha nunca foi um time muito agrecivo"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Espanha",
-                afirmacao: "afirmação"
+                afirmacao: "porque eles estavam com um time bem bom, e eram favorito"
             },
             {
                 texto: "Brasil",
-                afirmacao: "afirmação"
+                afirmacao: "o Brasil não era um time tão competitivo"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Napoli",
-                afirmacao: "afirmação"
+                afirmacao: "foi joagar la porque eles pagavam mais"
             },
             {
                 texto: "Barcelona",
-                afirmacao: "afirmação"
+                afirmacao: "Barcelona não optou em contratar"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Real Mradri",
-                afirmacao: "afirmação"
+                afirmacao: "Real tinha uma leve vantagem com seus jogadores todos de seleção"
             },
             {
                 texto: "Liverpool",
-                afirmacao: "afirmação"
+                afirmacao: "Liverpool não era um time para disputar champions"
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "45",
-                afirmacao: "afirmação"
+                afirmacao: "a partida não dura 40 minutos e sim 90"
             },
             {
                 texto: "90",
-                afirmacao: "afirmação"
+                afirmacao: "partida completa dura exatamente 90 minutos"
             }
         ]
     },
